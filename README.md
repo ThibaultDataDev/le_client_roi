@@ -5,7 +5,7 @@
 ## Installation sur votre machine
 
 - Copier/coller le dossier sur votre ordinateur
-- Ouvrez un terminal et utilisez la commande ```cd <folder_path>/le_client_est_roi``` afin de pouvoir acceder au dossier
+- Ouvrez un terminal et utilisez la commande ```cd <folder_path>/le_client_est_roi-main``` afin de pouvoir acceder au dossier
 - Créez un environnement virtuel et lancez le (recommandé):
     -https://docs.python.org/fr/3/library/venv.html si vous utilisez un terminal windows
     -https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html si vous utilisez anaconda
